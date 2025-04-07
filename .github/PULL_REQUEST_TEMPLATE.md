@@ -12,7 +12,7 @@ A few sentences describing the overall goals of the pull request's commits.
 
 You tested it, right?
 
-- [ ] I implemented unit test whicn ran successfully using `poetry run pytest tests/`
+- [ ] I implemented unit test which ran successfully using `poetry run pytest tests/`
 - [ ] Code has been formatted using `poetry run ruff format spleeter`
 
 ## Documentation link and external references
